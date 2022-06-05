@@ -1,0 +1,12 @@
+{
+    "showLicense": false,
+    "verbose": 1,
+    "build": ["gcc code.c -o program"],
+    "setup": [],
+    "run": "./program",
+    "runTimeout": 2,
+    "checkFile": "",
+    "deleteCheckFileOnSetup": false,
+    "checkCmds": [],
+    "scoreExitCode": false
+}

@@ -1,0 +1,12 @@
+{
+    "showLicense": false,
+    "verbose": 1,
+    "build": [],
+    "setup": [],
+    "run": "deno run script.ts",
+    "runTimeout": 2,
+    "checkFile": "",
+    "deleteCheckFileOnSetup": false,
+    "checkCmds": [],
+    "scoreExitCode": false
+}

@@ -1,0 +1,12 @@
+{
+    "showLicense": false,
+    "verbose": 1,
+    "build": ["tsc"],
+    "setup": [],
+    "run": "node script.js",
+    "runTimeout": 2,
+    "checkFile": "",
+    "deleteCheckFileOnSetup": false,
+    "checkCmds": [],
+    "scoreExitCode": false
+}
